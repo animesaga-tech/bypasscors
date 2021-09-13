@@ -1,4 +1,4 @@
 flask
 requests
-werkzeug==0.16.0
-guincorn
+werkzeug
+gunicorn==20.0.4
