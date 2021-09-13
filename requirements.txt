@@ -1,0 +1,4 @@
+flask
+requests
+werkzeug==0.16.0
+guincorn
